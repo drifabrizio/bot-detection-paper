@@ -1,2 +1,2 @@
 # bot-detection-paper
-Research paper for Modern AI class.
+In this project for my class on Modern AI, myself and two other classmates did research on Deep Learning techniques for detecting bots on Twitter.
